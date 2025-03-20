@@ -5,7 +5,7 @@ I’m a recent M.S. Information Systems graduate from UMBC (Dec 2024) with a pas
 - 🔭 Currently working on projects in sentiment analysis, predictive modeling, and database design.
 - 🌱 Learning TensorFlow and Power BI to expand my skillset.
 - 💼 Seeking opportunities in Data Analytics and ML Engineering across the US (open to relocate or remote).
-- 📫 Reach me at: khushck1@umbc.edu | [LinkedIn](https://www.linkedin.com/in/khushdeep-kaur-611623239/)
+- 📫 Reach me at: khushdk1@umbc.edu | [LinkedIn](https://www.linkedin.com/in/khushdeep-kaur-611623239/)
 
 ## Featured Projects
 (Will be updated soon!)
