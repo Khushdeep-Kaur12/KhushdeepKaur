@@ -8,8 +8,8 @@ I’m a recent M.S. Information Systems graduate from UMBC (Dec 2024) with a pas
 - 📫 Reach me at: khushdk1@umbc.edu | [LinkedIn](https://www.linkedin.com/in/khushdeep-kaur-611623239/)
 
 ## Featured Projects
-- [Sentiment Analysis of Flipkart Reviews]([https://github.com/Khushdeep-Kaur12/Product_categorization-NLP]): Classified 180K+ reviews with NLP.
-- [Twitter Sentiment Analysis]([https://github.com/Khushdeep-Kaur12/Twitter-SentimentAnalysis]): Analyzed 10K+ tweets on Russia-Ukraine.
+- [Sentiment Analysis of Flipkart Reviews](https://github.com/Khushdeep-Kaur12/Product_categorization-NLP): Classified 180K+ reviews with NLP.
+- [Twitter Sentiment Analysis](https://github.com/Khushdeep-Kaur12/Twitter-SentimentAnalysis): Analyzed 10K+ tweets on Russia-Ukraine.
 - [Heart Attack Prediction]([repo-url]): Predicted risks with ML on medical data.
 
 ## Skills
